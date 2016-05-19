@@ -65,11 +65,11 @@ gronnbeck
 Årshjul godkjent ved akklamasjon.
 
 ### 5. Valg av verv
-###### 5.1 Chief LAN Officer
+##### 5.1 Chief LAN Officer
 **Severinho** benket og godkjent ved akklamasjon
-###### 5.2 Chief Social Officer
+##### 5.2 Chief Social Officer
 **Schtifomcman**
-###### 5.3 Chief Skovly Officer
+##### 5.3 Chief Skovly Officer
 **Monarkennth**
-###### 5.4 Chief Executive Officer
+##### 5.4 Chief Executive Officer
 **Snorlock**
