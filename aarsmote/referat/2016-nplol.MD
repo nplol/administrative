@@ -66,10 +66,10 @@ gronnbeck
 
 ### 5. Valg av verv
 ###### 5.1 Chief LAN Officer
-Severinho benket og godkjent ved akklamasjon
+**Severinho** benket og godkjent ved akklamasjon
 ###### 5.2 Chief Social Officer
-Schtifomcman
+**Schtifomcman**
 ###### 5.3 Chief Skovly Officer
-Monarkennth
+**Monarkennth**
 ###### 5.4 Chief Executive Officer
-Snorlock
+**Snorlock**
