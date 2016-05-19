@@ -1,26 +1,30 @@
 # Referat årsmøte nplol 2016
 Deltakere: retardedbear, howie (sen), gronnbeck, benny_b, femtontre,
 martisj, moi, snorlock, schtifomcman, monarkennth.
-1. Runde rundt bordet
-Martisj
-Vært på vift, og ikke klart å meditere hver dag.
-Femtontre
-Fått seg dame og leilighet.
-Schtifomcman
-Fått seg dame.
-Gronnbeck
-Byttet jobb.
-Benny_b
-Giftet seg.
-Snorlock
-Mye det samme, men vært på topptur.
-Monarkennth
-Vært i Brasil og Colombia.
-Moi
-Fått seg dame.
-Retardedbear
-Blitt senior.
-2. Innsendte temaer
+
+### 1. Runde rundt bordet
+  * Martisj
+    - Vært på vift. 
+    - Ikke klart å meditere hver dag.
+  * Femtontre
+    - Fått seg dame og leilighet.
+  * Schtifomcman
+    - Fått seg dame.
+  * Gronnbeck
+    - Byttet jobb.
+  * Benny_b
+    - Giftet seg.
+  * Snorlock
+    - Mye det samme.
+    - Men fått med howie og T-bibby på toppturgamet
+  * Monarkennth
+    - Vært i Brasil og Colombia.
+  * Moi
+    - Fått seg dame.
+  * Retardedbear
+    - Blitt senior.
+
+### 2. Innsendte temaer
 Ingen innsendte temaer.
 3. Gjennomgang av vedtekter
 V1: ingen endring
