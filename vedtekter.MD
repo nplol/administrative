@@ -47,10 +47,10 @@ Det er opp til medlemmets vurdering om denne sangen skal
 deles i privat eller i kanalen.
 
 ## 5. Opptak av nye medlemmer
-For å ta opp nye medlemmer i nplol skal det først levert skriftlig
+For å ta opp nye medlemmer i nplol skal det først være levert skriftlig
 søknad til samtlige eksisterende medlemmer. Søknaden skal
 inneholde en link til anonym avstemming. Dersom noen av
-stemmene er imot personen søknaden omfatter skal den tas
+stemmene er imot personens søknaden omfatter, skal den tas
 opp i plenum på neste generalforsamling.
 
 ## 6. Sosialt
