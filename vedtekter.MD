@@ -41,7 +41,7 @@ vedtektavstemming.
 Dersom et nplol medlem befinner seg i samme rom som et
 annet nplol medlem førstnevnte medlem vet med sikkerhet har
 hatt samleie med en ny kvinne kvelden før har førstnevnte rett
-til å spille The Lonlely Island’s “I Just Had Sex”, <sup>[1](#songref)</sup>
+til å spille The Lonlely Island’s “I Just Had Sex” <sup>[1](#songref)</sup>
 
 Det er opp til medlemmets vurdering om denne sangen skal
 deles i privat eller i kanalen.
@@ -57,5 +57,8 @@ opp i plenum på neste generalforsamling.
 Det skal arrangeres Sommerfest, Høsttakkefest, og Julebord
 hvert år. Chief Social Officer har ansvar for at dette
 gjennomføres.
+
+
+
 
 <a name="songref">1</a>: Fra albumet “Turtleneck & Chain”, Universal (2011).
