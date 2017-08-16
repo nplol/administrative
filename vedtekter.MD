@@ -58,7 +58,14 @@ Det skal arrangeres Sommerfest, Høsttakkefest, og Julebord
 hvert år. Chief Social Officer har ansvar for at dette
 gjennomføres.
 
+## 7. Verv
+Disse posisjonene skal være fylt til enhver tid:
+* Chief Executive Officer
+* Chief Social Officer
+* Chief LAN Officer
+* Chief Skovly Officer
 
 
+#### Referanser
 
 <a name="songref">1</a>: Fra albumet “Turtleneck & Chain”, Universal (2011).
