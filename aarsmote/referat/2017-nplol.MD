@@ -6,6 +6,7 @@ Deltakere: retardedbear
     - .
 
 ### 2. Innsendte temaer
+  1. Hvor går 2018s surfetur?
 
 ### 3. Gjennomgang av vedtekter
 
