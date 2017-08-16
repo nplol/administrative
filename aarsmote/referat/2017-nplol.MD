@@ -1,9 +1,7 @@
 # Referat årsmøte nplol 2017
-Deltakere: retardedbear
+Deltakere:
 
 ### 1. Runde rundt bordet
-  * Retardedbear
-    - .
 
 ### 2. Innsendte temaer
   1. Hvor går 2018s surfetur?
