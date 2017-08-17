@@ -2,25 +2,25 @@
 Deltakere: Thoie, Kenwobi, Retardedbear, Benny-b, Femton, Snorlock, Martisj
 
 ### 1. Runde rundt bordet
-Thoie:
+**🏂Thoie:🏂**
 * Singel, ugift, jern er ute av ilden. Mye runking. Norgesmester i bob!
 
-Kenwobi:
+**🍚Kenwobi:🍚**
 * Høydesyke for første gang, single, lugget rundt, fått ny dame(bettan)👩🏼, Sevve, Nicco og Håvard møtt henne, solgt leilighet
 
-Retardedbear:
+**🐻Retardedbear:🐻**
 * Startup busnæsss som har release på mandag, tatt med seg 20 år gammel 🙅, men lå ikke. Øya, 70% ferdig med 📖. 4 forskjellige på 4 helger på rad🥇
 
-Benny-b:
+**🛠Benny-b:🛠**
 * Skal bli far(28 nov)🎉, blitt senior consulent, laget en fresh kommode
 
-Femton:
+**💪Femton:💪**
 * Fått samboer, mistet ken som var en OK nabo. Hadde vist loft!!! Senior utvikler. **Fått synlig skjeggvekst**
 
-Snorlock:
+**🤙Snorlock:🤙**
 *  Oppdage blockchain, byttet prosjekt til Entur, vært på workcation, sex på taket på leiligheten. CTO for startup: Diwala, bestemt seg for å å få til å jobbe med blockchain 100%
 
-Martisj:
+**💊Martisj:💊**
 * Fast jobb! I et år! 🥇 Begynt å se etter andre jobber ⛱ Fikk seg dame, slo opp. Fortsatt på kroken. Tatt ioawaska, hadde orgasme i en time, 🐉 var innom iløpet av helgen
 
 ### 2. Innsendte temaer
