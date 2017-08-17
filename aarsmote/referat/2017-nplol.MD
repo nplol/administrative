@@ -24,9 +24,7 @@ Martisj:
 * Fast jobb! I et år! 🥇 Begynt å se etter andre jobber ⛱ Fikk seg dame, slo opp. Fortsatt på kroken. Tatt ioawaska, hadde orgasme i en time, 🐉 var innom iløpet av helgen
 
 ### 2. Innsendte temaer
-  1. Hvor går 2018s surfetur/tur?
-    * **Det ble foreslått ny tittle, CTO(Chief trip organizer).**
-    * Mange gode forslag!
+  1. Hvor går 2018s surfetur/tur? **<sup>[1](#tur)</sup>**
     * Etter avstemming ble mulighetene 🏄‍ i Sri Lanka, ⛷ i Østerrike, 🏄‍ i Taiwan! Se tittel avstemming for hvem som ble ansvarlig!
 
 ### 3. Gjennomgang av vedtekter
@@ -48,7 +46,7 @@ Martisj:
     * Fjerne snitter LAN
 * V6:
     * CSO har ansvar for at sosiale aktiviter på årshjulet som faller utenfor de andres ansvarsområder blir gjennomført.
-* V7: Årshjulet:
+* V7: Årshjulet: **<sup>[2](#hyttetur)</sup>**
     * **I atmosfæren:** Hyttetur(av CHO), TUR(av CTO).
     * **På våren:** 2 LAN(av CLO), 17 mai (hos Ken)
     * **På sommeren:** sommerfest hos Ken.
@@ -75,7 +73,7 @@ Martisj:
 * V9: ✅
 
 ## 5. Valg av verv
-### 5.1 Chief Executive Officer
+### 5.1 Chief Executive Officer **<sup>[3](#valg)</sup>**
 #### MonarkenNTH 🤴
 ### 5.2 Chief Social Officer
 #### Retardedbear 🎉
@@ -89,6 +87,8 @@ Martisj:
 #### Snorlock 🏕
 
 ## Notater
-Hytteturene til Severin ble diskutert og vi digger de, men det er folk som ikke blir invitert og da kan det ikke være et årlig nplol arrangement. Derfor ble det opprettet et nytt arrangement, og en ansvarlig. For å få til en hyttetur hvor alle har muligheten til å være med!
+<a name="tur">1</a>: Det ble insendt tema om hvor skal turen gå i 2018? I den annledning ble var det grønn sone på forslag for å så stemme fram de beste stedene. I samsvar med ny fokus på tur, ble det anskaffet en ny stilling som skal ta ansvar for at dette skjer.
 
-Det ble insendt tema om hvor går turen 2018? I den annledning ble det stemt fram noen forslag og anskaffet en ny stilling som skal ta ansvar for at dette skjer.
+<a name="hyttetur">2</a>: Hytteturene til Severin ble diskutert og vi digger de, men det er folk som ikke blir invitert og da kan det ikke være et årlig nplol arrangement. Derfor ble det opprettet et nytt arrangement, og en ansvarlig. For å få til en hyttetur hvor alle har muligheten til å være med!
+
+<a name="valg">3</a>: Ekstremt spennende CEO valg. MonarkenNTH ble benket av benny-b og Retardedbear stilte. Første runde ble det 4-4. Så måtte vi ringe rundt for å hente stemme. Første person som ble ringt klarte ikke å bestemme seg, så da fikk MonarkenNTH lov til å avlegge en stemme for å gjøre det rettferdig, og stemte seg selv, som Retardedbear gjorde. Første person ringte tilbake og avla stemmen sin så var det 5-5. En siste person ble ringt, der kom stemmen kontant og slaget var tapt for Retardedbear. MonarkenNTH ble CEO.
