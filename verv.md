@@ -1,6 +1,6 @@
 ## Chief Executive Officer
 
-**Holder av verv:** MonarkenNTH stemt fram etter et spennende valg
+**Holder av verv:** MonarkenNTH stemt fram etter et spennende valg    
 **Verv innebærer:** Styre skuta
 
 ## Chief LAN Officer
