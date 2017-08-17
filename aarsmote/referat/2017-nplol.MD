@@ -74,17 +74,17 @@ Deltakere: Thoie, Kenwobi, Retardedbear, Benny-b, Femton, Snorlock, Martisj
 
 ## 5. Valg av verv
 ### 5.1 Chief Executive Officer **<sup>[3](#valg)</sup>**
-#### MonarkenNTH 🤴
+#### 🤴 MonarkenNTH 🤴
 ### 5.2 Chief Social Officer
-#### Retardedbear 🎉
+#### 🎉 Retardedbear 🎉
 ### 5.3 Chief LAN Officer
-#### Fiskeboss 💻
+#### 💻 Fiskeboss 💻
 ### 5.4 Chief Skovly Officer
-#### Schtifoman 👽
+#### 👽 Schtifoman 👽
 ### 5.5 Chief Trip Organizer
-#### Thoie 🛄
+#### 🛄 Thoie 🛄
 ### 5.6 Chief Hyttetur Organizer
-#### Snorlock 🏕
+#### 🏕 Snorlock 🏕
 
 ## Notater
 <a name="tur">1</a>: Det ble insendt tema om hvor skal turen gå i 2018? I den annledning ble var det grønn sone på forslag for å så stemme fram de beste stedene. I samsvar med ny fokus på tur, ble det anskaffet en ny stilling som skal ta ansvar for at dette skjer.
