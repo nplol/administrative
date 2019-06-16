@@ -26,27 +26,27 @@ CSKo avgjør ila. året hvem som får stempel «inaktiv». Avgjørelse baseres p
 
 ### 7 Årshjul
 
-7.1
+**7.1**
 
 - Hyttetur fjernes
 - CSO lodder stemning for stor tur på slack
 
-  7.2
+**7.2**
 
 - 1 x LAN
 - 17. mai, alle _aktive_ inviteres, selv om Jørgen ikke kommer.
 
-  7.3
+**7.3**
 
 - Sommerfest (CSO)
 - Nplolympics (CHO)
 
-  7.4
+**7.4**
 
 - 1 x LAN
 - Høsttakkefest (CSO)
 
-  7.5
+**7.5**
 
 - Julebord (CSO). Alle _aktive_ inviteres, inaktive etter plass.
 
