@@ -12,8 +12,8 @@ CSKo avgjør ila. året hvem som får stempel «inaktiv». Avgjørelse baseres p
 
 ### 2 LAN
 
-2.1 _To_ LAN istedenfor tre
-2.2 Counter-Strike tar presedens
+2.1 _To_ LAN istedenfor tre    
+2.2 Counter-Strike tar presedens    
 2.3 Fjerne snitter
 
 ### 3 Generalforsamling
@@ -61,8 +61,8 @@ Godkjent ved akklamasjon, Monarken trakk seg heldigvis av helseårsaker rett fø
 
 ## Verv
 
-**Chief Social Officer**: Nicolay (retardedbear)
-**Chief Skovly Officer**: Snorre (snorlock)
-**Chief Executive Officer**: Steffen (mustafa)
-**Chief Health Officer**: Monarken (nn)
-**Chief LAN Officer**: Severin (severinho)
+**Chief Social Officer**: Nicolay (retardedbear)    
+**Chief Skovly Officer**: Snorre (snorlock)    
+**Chief Executive Officer**: Steffen (mustafa)    
+**Chief Health Officer**: Monarken (nn)    
+**Chief LAN Officer**: Severin (severinho)    
