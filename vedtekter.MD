@@ -48,6 +48,7 @@ CEO (Chief Executive Officer) har ansvar for generalforsamlinger.
 3.  Dersom en person er stemplet som «inaktiv» men fremdeles ønsker på delta på et nplol-
     arrangement (f.eks. julebord) har CSkO mandat til å kreve betaling for deltakelse i form
     av underholdsningsbidrag e.l.
+4.  Det vil være en prioritering av aktive ovenfor inaktive om det er plass begrensninger på arrangement
 
 ## 7. Årshjulet
 
