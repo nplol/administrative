@@ -53,7 +53,7 @@ CEO (Chief Executive Officer) har ansvar for generalforsamlinger.
 
 - **På våren:** LAN, 17. mai-feiring.
 - **På sommeren:** nplolympics, sommerfest hos Ken.
-- **På høsten:** LAN, høsttakkefest.
+- **På høsten:** LAN, HøsttakkeLAN.
 - **På vinteren:** Julebord
 
 ## 8. Verv
@@ -63,8 +63,9 @@ Disse posisjonene skal være fylt til enhver tid:
 - CEO (Chief Executive Officer)
 - CSO (Chief Social Officer)
 - CLO (Chief LAN Officer)
-- CSkO (Chief Skovly Officer)
+- ~~CSkO (Chief Skovly Officer)~~ (fjernet 2020)
 - CHO (Chief Health Officer)
+- CTO (Chief Trip Officer)
 
 ## 9. Politiske kvarter
 
